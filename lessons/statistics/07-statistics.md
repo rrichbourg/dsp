@@ -101,7 +101,7 @@ p(Id|twin) = 1/3.4 = 29.4%
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+The differences between frequentist and Bayesian statistics comes down to a matter of interpreting logic and data in different ways. In frequentist statistics, models have constant parameters which define the likelihood of outcomes based on long-run frequencies or proportions of repeatable data. Bayesian statistics on the other hand can update its probabilistic likelihoods based on changes in observed data, drawn from prior beliefs regarding the system. 
 
 ---
 
